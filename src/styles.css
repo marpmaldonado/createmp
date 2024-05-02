@@ -1,0 +1,32 @@
+*{
+    /* background-color: rgb(26, 145, 192); */
+    font-family: cursive;
+}
+
+.card {
+   border-radius: 80px;
+    background-color: rgb(13, 93, 163);
+    width: 1000px;
+    
+    
+}
+/* .card back{
+   background: rgb(218, 46, 46);
+   width: 50px;
+   height: 40px;
+} */
+
+.font{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(239, 239, 247);
+    
+    
+}
+/* .porta{
+    width: 50px;
+    margin-left: 40%;
+} */
+.descripcion{
+    display: flex;
+}
